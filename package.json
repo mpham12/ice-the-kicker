@@ -1,0 +1,16 @@
+{
+  "name": "icing-the-kicker",
+  "version": "1.0.0",
+  "description": "Throwing errors for unknown positions",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha tests.js"
+  },
+  "author": "Stack Education",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "6.1.4"
+  }
+}
